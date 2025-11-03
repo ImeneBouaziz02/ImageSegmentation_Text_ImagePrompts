@@ -150,7 +150,7 @@ Please view the [`presentation`](./presentation) folder.
 - **Python, PyTorch**
 - **CLIP, OpenAI embeddings**
 - **Gamma (AI presentation generator)**
-- **Google Colab / Local GPU**
+- **Google Colab**
 - **Git, GitHub**
 
 ## 📚 References
